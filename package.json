@@ -1,0 +1,19 @@
+{
+  "name": "mhotplace25",
+  "version": "1.0.0",
+  "description": "모바일 테스트서버",
+  "main": "mhotplace25.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mhotplace25.js"
+  },
+  "author": "nam ki hoon",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "express": "^4.15.4",
+    "express3-handlebars": "^0.5.2",
+    "log4js": "^2.3.3",
+    "mssql": "^4.0.4"
+  }
+}
